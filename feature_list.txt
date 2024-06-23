@@ -1,0 +1,23 @@
+Warning:
+This room is still occupied. (沒有退租紀錄)
+未續約
+
+
+Notification:
+
+
+
+Views:
+What rooms are expiring in one month?
+
+
+
+Feature
+客人線上填表 現場輸入所有資訊 包括緊急聯絡人 附加配件 車位 然後打印合約出來
+續約
+退租
+	- 退租時
+		1. 退押金/日期
+		2. 檢查歸還磁扣 鑰匙 遙控器 
+
+新約
